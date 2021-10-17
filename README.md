@@ -13,3 +13,8 @@ CPU usage: pip install --pre "tensorflow==1.15.*"
 GPU usage: pip install --pre "tensorflow-gpu==1.15.*"
 
 # Code explanation
+
+Helm_pinn_sine_adaptive.py: Tensorflow code for solving the Helmholtz equation using PINN for a Marmousi model
+
+# contact information
+If there are any problems, please contact me through my emails: chao.song@kaust.edu.sa;csong1@ic.ac.uk
