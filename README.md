@@ -14,8 +14,9 @@ GPU usage: pip install --pre "tensorflow-gpu==1.15.*"
 
 # Code explanation
 
-Helm_pinn_sine_adaptive.py: Tensorflow code for solving the Helmholtz equation using PINN with adpative sine activation function
-Helm_pinn_sine_fixed.py: Tensorflow code for solving the Helmholtz equation using PINN for fixed sine activation function
+Helm_pinn_sine_adaptive.py: Solving the Helmholtz equation using PINN with adpative sine activation function for isotropic media
+Helm_pinn_sine_fixed.py: Solving the Helmholtz equation using PINN with fixed sine activation function for isotropic media
+Helm_pinn_sine_fixed.py: Solving the Helmholtz equation using PINN with fixed sine activation function for isotropic media
 
 # contact information
 If there are any problems, please contact me through my emails: chao.song@kaust.edu.sa;csong1@ic.ac.uk
