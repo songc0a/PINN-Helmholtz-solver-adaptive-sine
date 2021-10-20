@@ -26,7 +26,7 @@ Helm_pinn_ps_sine_tti_topo.py: Solving the Helmholtz equation using PINN with fi
 
 # Citation information
 
-If you find our codes and publications helpful, please kindly cite the following publications.
+If you find our codes and publications helpful, please kindly cite the following publication.
 
 @article{song2021versatile,  
   title={A versatile framework to solve the Helmholtz equation using physics-informed neural networks},  
