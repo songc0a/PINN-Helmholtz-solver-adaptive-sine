@@ -24,5 +24,20 @@ Helm_pinn_sine_vti_adaptive.py: Solving the Helmholtz equation using PINN with f
 
 Helm_pinn_ps_sine_tti_topo.py: Solving the Helmholtz equation using PINN with fixed sine activation function for TTI media
 
+# Citation information
+
+If you find our codes and publications helpful, please kindly cite the following publications.
+
+@article{song2020solving,  
+  title={A versatile framework to solve the Helmholtz equation using physics-informed neural networks},  
+  author={Song, Chao and Alkhalifah, Tariq and Waheed, Umair Bin},  
+  journal={Geophysical Journal International},  
+  volume={},  
+  number={},  
+  pages={},  
+  year={2021},  
+  publisher={Oxford University Press}  
+}
+
 # contact information
 If there are any problems, please contact me through my emails: chao.song@kaust.edu.sa;csong1@ic.ac.uk
