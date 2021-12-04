@@ -28,15 +28,15 @@ Helm_pinn_ps_sine_tti_topo.py: Solving the Helmholtz equation using PINN with fi
 
 If you find our codes and publications helpful, please kindly cite the following publication.
 
-@article{song2021versatile,  
-  title={A versatile framework to solve the Helmholtz equation using physics-informed neural networks},  
-  author={Song, Chao and Alkhalifah, Tariq and Waheed, Umair Bin},  
-  journal={Geophysical Journal International},  
-  volume={},  
-  number={},  
-  pages={},  
-  year={2021},  
-  publisher={Oxford University Press}  
+@article{song2021versatile,
+  title={A versatile framework to solve the Helmholtz equation using physics-informed neural networks},
+  author={Song, Chao and Alkhalifah, Tariq and Waheed, Umair Bin},
+  journal={Geophysical Journal International},
+  volume={228},
+  number={3},
+  pages={1750--1762},
+  year={2021},
+  publisher={Oxford University Press}
 }
 
 # contact information
