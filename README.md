@@ -24,7 +24,7 @@ Helm_pinn_sine_vti_adaptive.py: Solving the Helmholtz equation using PINN with f
 
 Helm_pinn_ps_sine_tti_topo.py: Solving the Helmholtz equation using PINN with fixed sine activation function for TTI media
 
-Part of Matlab codes are included in my other 
+Part of Matlab codes are included in my other repository
 
 # Citation information
 
