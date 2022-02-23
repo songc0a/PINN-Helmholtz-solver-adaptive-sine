@@ -38,7 +38,7 @@ Nx = nx + 2*npmlx;
 
 v_e=extend2d(v,npmlz,npmlx,Nz,Nx);
 
-Ps1 = vti_getP_H(n,npmlz,npmlx,src_z,src_x);
+Ps1 = getP_H(n,npmlz,npmlx,src_z,src_x);
 Ps1 = Ps1'*500;
 Ps1 = reshape(full(Ps1),[nz+2*npmlz,nx+2*npmlx]);
 Ps3 = imgaussfilt(Ps1,3);
