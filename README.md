@@ -30,13 +30,15 @@ Part of Matlab codes are included in my other repository
 
 If you find our codes and publications helpful, please kindly cite the following publication.
 
-@article{song2023weighted,
-  title={Weighted Envelope Correlation-based Waveform Inversion Using Automatic Differentiation},
-  author={Song, Chao and Wang, Yanghua and Richardson, Alan and Liu, Cai},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  volume={61},
-  year={2023},
-  publisher={IEEE}
+@article{song2022versatile,
+  title={A versatile framework to solve the Helmholtz equation using physics-informed neural networks},
+  author={Song, Chao and Alkhalifah, Tariq and Waheed, Umair Bin},
+  journal={Geophysical Journal International},
+  volume={228},
+  number={3},
+  pages={1750--1762},
+  year={2022},
+  publisher={Oxford University Press}
 }
 
 # contact information
